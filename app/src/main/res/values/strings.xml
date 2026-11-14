@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">كشاف</string>
+    <string name="search">بحث</string>
+    <string name="search_hint">ابحث في الاكتشافات…</string>
+    <string name="add_discovery">إضافة اكتشاف</string>
+    <string name="empty_message">لا توجد اكتشافات حتى الآن\nابدأ رحلتك الاستكشافية!</string>
+    <string name="no_description">لا يوجد وصف</string>
+    <string name="no_location">غير محدد</string>
+
+    <string name="detail_title">تفاصيل الاكتشاف</string>
+    <string name="location_label">الموقع</string>
+    <string name="date_label">التاريخ</string>
+    <string name="description_label">الوصف</string>
+    <string name="delete">حذف الاكتشاف</string>
+
+    <string name="add_title">اكتشاف جديد</string>
+    <string name="title_label">العنوان</string>
+    <string name="title_required">يُرجى إدخال العنوان</string>
+    <string name="category_label">الفئة</string>
+    <string name="save">حفظ الاكتشاف</string>
+
+    <string name="action_refresh">تحديث</string>
+    <string name="action_clear">مسح الكل</string>
+</resources>

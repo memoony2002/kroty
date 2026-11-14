@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- بوصلة بسيطة ترمز لاستكشاف "كشاف" -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,30 L60,54 L54,78 L48,54 Z" />
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,34 L49.5,54 L54,74 L58.5,54 Z"
+        android:fillAlpha="0.55" />
+    <path
+        android:fillColor="#1D005D"
+        android:pathData="M54,50 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+</vector>
